@@ -1,5 +1,5 @@
 icat > .github/workflows/main.yml <<EOF
-name: CI/CD Pipeline
+name:CI/CD Pipeline
 
 on:
   push:
